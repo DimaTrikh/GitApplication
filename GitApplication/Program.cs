@@ -27,5 +27,14 @@ namespace GitApplication
                 Console.WriteLine();
             }
         }
+
+        public static void PrintMyName()
+        {
+            Console.WriteLine("Trikhunkov Dmitry Sergeevich");
+            Console.WriteLine("10.4");
+            Console.WriteLine("October, 18");
+        }
+
+
     }
 }
