@@ -10,7 +10,6 @@ namespace GitApplication
     {
         static void Main(string[] args)
         {
-           
         }
         public static void MatrixB(int w, int h)
         {
