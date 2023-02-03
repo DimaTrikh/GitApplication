@@ -25,5 +25,11 @@ namespace GitApplication
                 Console.WriteLine();
             }
         }
+        public static void PrintMyName()
+        {
+            Console.WriteLine("Zelinsky Evgeny Yrevich");
+            Console.WriteLine("10.4");
+            Console.WriteLine("August, 8");
+        }
     }
 }
