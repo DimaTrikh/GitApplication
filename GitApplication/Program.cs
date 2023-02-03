@@ -23,7 +23,6 @@ namespace GitApplication
                     Console.Write(rnd.Next(0, 2));
 
                 }
-
                 Console.WriteLine();
             }
 
