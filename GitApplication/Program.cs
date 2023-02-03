@@ -10,8 +10,7 @@ namespace GitApplication
     {
         static void Main(string[] args)
         {
-            MatrixA(10, 10);
-            Console.ReadKey();
+            
         }
 
 
